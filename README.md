@@ -4,7 +4,7 @@ A web application for scanning prices from images using the Google Cloud Vision 
 
 The app is optimized for mobile and supports camera input and multi-image uploads. Images are annotated with OCR results and presented with the extracted numbers and their BGN equivalents.
 
-<img width="325" alt="Screenshot 2025-06-15 at 22 17 30" src="https://github.com/user-attachments/assets/4c80abf2-bfc4-43c2-86f2-cee6d55defdd" />
+<img width="322" alt="Screenshot 2025-06-15 at 22 33 40" src="https://github.com/user-attachments/assets/53743522-da31-4a05-9694-ff4f57b5fb01" />
 
 ---
 
